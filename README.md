@@ -1,4 +1,4 @@
 # New project
 
- This project was  created from local system .
-  and written by shardha khapra .
+  This project is a demo project for general practice .
+  And created by NEHA DHAKAD .
